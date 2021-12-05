@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        },
+        {
+            "tag": "runde_wuerfel:glass_pane"
+        }
+    ],
+    "result": {
+        "item": "minecraft:glass",
+        "count": 3
+    }
+}
