@@ -1,0 +1,10 @@
+{
+    "values": [
+        "minecraft:#leather_armor",
+        "minecraft:#chainmail_armor",
+        "minecraft:#iron_armor",
+        "minecraft:#golden_armor",
+        "minecraft:#diamond_armor",
+        "minecraft:#netherite_armor"
+    ]
+}
