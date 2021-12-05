@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "runde_wuerfel:wool_blocks"
+        }
+    ],
+    "result": {
+        "item": "minecraft:string",
+        "count": 2
+    }
+}
